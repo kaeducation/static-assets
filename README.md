@@ -1,6 +1,7 @@
 # ka-static-assets
 
-Image Sources:
+Image Sources and Credits:
 
-* [code1.jpg](https://source.unsplash.com/xekxE_VR0Ec)
-* [code2.jpg](https://source.unsplash.com/8OyKWQgBsKQ)
+* [code1.jpg](https://unsplash.com/photos/xekxE_VR0Ec)
+* [code2.jpg](https://unsplash.com/photos/8OyKWQgBsKQ)
+* [studying.jpg](https://unsplash.com/photos/s9CC2SKySJM)
