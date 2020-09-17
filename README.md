@@ -4,6 +4,7 @@ Image Sources and Credits:
 <!-- index -->
 * [code2.jpg](https://unsplash.com/photos/8OyKWQgBsKQ) - Markus Spiske @ Unsplash
 * [rainbow-macbook.jpg](https://unsplash.com/photos/u76CN5rZeOU) - Nikolay Tarashchenko @ Unsplash
+* [mobo-tile.jpg](https://pixabay.com/illustrations/seamless-repeat-repetitive-2033661/) - Prawny @ Pixabay
 <!-- lc-py -->
 * [code1.jpg](https://unsplash.com/photos/xekxE_VR0Ec) - Markus Spiske @ Unsplash
 * [studying.jpg](https://unsplash.com/photos/s9CC2SKySJM) - Green Chameleon @ Unsplash
@@ -23,6 +24,5 @@ Image Sources and Credits:
 * [start-today.jpg](https://unsplash.com/photos/cdwpR1AUn8o) - Jessica Lewis @ Unsplash
 <!-- all lc -->
 * [hamsters.jpg](https://unsplash.com/photos/MUcxe_wDurE) - Bonnie Kittle @ Unsplash
-
 <!-- big-o js -->
 * [elevator-blue.jpg](https://unsplash.com/photos/wy5QuZMI8V4) - Nick Fewings @ Unsplash
