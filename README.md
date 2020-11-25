@@ -22,6 +22,12 @@ Image Sources and Credits:
 * [compass.jpg](https://unsplash.com/photos/_94HLr_QXo8) - Jamie Street @ Unsplash
 * [the-hills.jpg](https://unsplash.com/photos/PKLoOomB5Cs) - Kristina Wagner @ Unsplash
 * [start-today.jpg](https://unsplash.com/photos/cdwpR1AUn8o) - Jessica Lewis @ Unsplash
+<!-- ds-js -->
+* [man-thinking-computer.jpg](https://unsplash.com/photos/1K9T5YiZ2WU) - Tim Gouw @ Unsplash
+* [desk-books.jpg](https://unsplash.com/photos/vSchPA-YA_A) - Freddie Marriage @ Unsplash
+* [gray-clock.jpg](https://unsplash.com/photos/aLzlhl9_jAc) - Monty Allen @ Unsplash
+* [success-valley.jpg](https://unsplash.com/photos/eA2t5EvcxU4) - Xan Griffin @ Unsplash
+* [working-together.jpg](https://unsplash.com/photos/Of_m3hMsoAA) - Jud Mackrill @ Unsplash
 <!-- all lc -->
 * [hamsters.jpg](https://unsplash.com/photos/MUcxe_wDurE) - Bonnie Kittle @ Unsplash
 <!-- big-o js -->
